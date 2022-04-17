@@ -5,6 +5,6 @@ Please to support me!
 
 Sosyal medyadan beni takip edin!:
 
-> Instagram: @gokhankutbays
-> Twitter: @gokhank55
-> LinkediIn: @gokhankutbay
+- Instagram: @gokhankutbays
+- Twitter: @gokhank55
+- LinkediIn: @gokhankutbay
