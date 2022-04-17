@@ -3,4 +3,8 @@ Easy library automation with C# Form.
 
 Please to support me!
 
-Don't forget to visit the [website] (https://www.gokhankutbay.com/)!
+Sosyal medyadan beni takip edin!:
+
+> Instagram: @gokhankutbays
+> Twitter: @gokhank55
+> LinkediIn: @gokhankutbay
