@@ -3,8 +3,11 @@ Easy library automation with C# Form.
 
 Please to support me!
 
-#### Yönetici Girişi
-![Yönetici Girişi](https://www.gokhankutbay.com/assets/github/resim1.PNG)
+#### Admin Login
+![Admin Login](https://www.gokhankutbay.com/assets/github/resim1.PNG)
+
+#### Admin Page
+![Admin Page](https://www.gokhankutbay.com/assets/github/resim2.PNG)
 
 Follow me on social media:
 
